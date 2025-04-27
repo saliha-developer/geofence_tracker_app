@@ -131,19 +131,19 @@ Before you begin, ensure you have the following installed:
 
 ### Geofence Management
 
-![Geofence Creation](assets/geofence_creation.png)
-![Geofence Creation](assets/geofence_creation_alert.png)
+![Geofence Creation](assets/images/geofence_creation.png)
+![Geofence Creation](assets/images/geofence_creation_alert.png)
 _Figure 1: Adding a new geofence._
 
 ### Map Visualization
 
-![Map Visualization](assets/location_tracking.png)
+![Map Visualization](assets/images/location_tracking.png)
 _Figure 2: Location history displayed on the map._
 
 ### Home View
-![Home View](assets/history_view.png)
+![Home View](assets/images/history_view.png)
 _Figure 3: Home view shows the list of created geofence with data and status._
 
 ### Geofence Notification
-![Geofence Notification](assets/geofence_notification.png)
+![Geofence Notification](assets/images/geofence_notification.png)
 _Figure 4: Example of geofence notification._
