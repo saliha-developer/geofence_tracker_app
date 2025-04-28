@@ -135,14 +135,14 @@ Before you begin, ensure you have the following installed:
 ![Geofence Creation](assets/images/geofence_creation_alert.png)
 _Figure 1: Adding a new geofence._
 
+### Home View
+![Home View](assets/images/geofence_home.png)
+_Figure 2: Home view shows the list of created geofence with data and status._
+
 ### Map Visualization
 
 ![Map Visualization](assets/images/location_tracking.png)
-_Figure 2: Location history displayed on the map._
-
-### Home View
-![Home View](assets/images/history_view.png)
-_Figure 3: Home view shows the list of created geofence with data and status._
+_Figure 3: Location history displayed on the map._
 
 ### Geofence Notification
 ![Geofence Notification](assets/images/geofence_notification.png)
